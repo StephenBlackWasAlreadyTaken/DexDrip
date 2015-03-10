@@ -1,2 +1,2 @@
-# This Repository has renamed. 
-### You can now find it here: [xDrip](https://github.com/StephenBlackWasAlreadyTaken/xDrip)
+# This Project has moved
+### You can now find it here: [xDrip](http://stephenblackwasalreadytaken.github.io/xDrip/)
