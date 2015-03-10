@@ -4,4 +4,4 @@
 ### The new Project Page is here: [xDrip](http://stephenblackwasalreadytaken.github.io/xDrip/)
 
 
-### The github repo is here: [xDrip](https://github.com/StephenBlackWasAlreadyTaken/xDrip)
+### The github repo is here: [https://github.com/StephenBlackWasAlreadyTaken/xDrip](https://github.com/StephenBlackWasAlreadyTaken/xDrip)
